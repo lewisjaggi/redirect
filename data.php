@@ -1,5 +1,5 @@
 <?php
-$path = "countries";
+$path = "countries"; 
 $data = [
     "CH"   => "$path/swiss.php",
     "FR"        => "$path/france.php",
